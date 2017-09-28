@@ -1,7 +1,7 @@
+## [RichText for Unity](http://u3d.as/XK4) 
 > RichText is a powerful, extensible text component for Unity's UI.
 > It's the perfect replacement for Unity's built-in UI Text.
 
-## [Get The Plugin](http://u3d.as/XK4) 
 ![RichText](/Screenshots/Screenshots-1.png)
 
 ## Customizable Tags
