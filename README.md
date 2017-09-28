@@ -7,6 +7,7 @@
 
 - Underline
 - Strikethrough
+- Link
 - Colour
 - Rainbow
 - Gradient
@@ -14,9 +15,10 @@
 - Emoji (Inline Images)
 - Frame Animation
 
-## underline: 
+## underline/link: 
 ```html
 <u[=color[,color]]>content</u>
+<a=eventname>content</a>
 ```
 ![RichText](/Screenshots/Screenshots-2.png)
 
